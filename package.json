@@ -1,5 +1,5 @@
 {
-  "name": "vuetiful-board",
+  "name": "orgChart",
   "version": "0.2.8",
   "scripts": {
     "dev": "cd dev && vue-cli-service serve",
